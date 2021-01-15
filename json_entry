@@ -1,0 +1,20 @@
+{
+	"user_id":999,
+	"userName": "ArtursV",
+	"password":"robot",
+	"email":"my_email@inbox.lv",
+	"roles":[{
+		"role":"ADMIN"
+	}]
+}
+
+
+
+{
+	"userName": "Visvaldis"
+	"password":"robot2",
+	"email":"visvaldis_email@inbox.lv",
+	"roles":[{
+		"role":"USER"
+	}]
+}
